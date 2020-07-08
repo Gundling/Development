@@ -15,3 +15,13 @@ function repeatContent(el, till) {
         counter += 1;
     }
 }
+
+
+
+function misterMan() {
+    for (i = 0 ; i < 1000 ; i++) {
+        console.log("I put cheese on my balls call that utz cheese balls" + i)
+    }
+}
+
+console.log(misterMan());
